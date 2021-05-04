@@ -1,0 +1,119 @@
+.villanos {
+  margin: 0 0 2em 0;
+  list-style-type: none;
+  padding: 0;
+  width: 15em;
+
+  background-color: #efccf8;
+}
+.villanos li {
+  cursor: pointer;
+  position: relative;
+  left: 0;
+  background-color: #EEE;
+  margin: .5em;
+  padding: .3em 0;
+  height: 1.6em;
+  border-radius: 3px;
+}
+.villanos li:hover {
+  color: #2c3a41;
+  background-color: #e6e6e6;
+  left: .1em;
+}
+.villanos li.selected {
+  background-color: paleturquoise;
+  color: white;
+}
+.villanos li.selected:hover {
+  background-color: #505050;
+  color: white;
+}
+.villanos li.selected:active {
+  background-color: palegreen;
+  color: white;
+}
+.villanos .badge {
+  display: inline-block;
+  font: bold 90% monospace;
+  color: white;
+  padding: 0.8em 0.7em 0 0.7em;
+  background-color: #c928c9;
+  line-height: 1em;
+  position: relative;
+  left: -1px;
+  top: -4px;
+  height: 1.8em;
+  margin-right: .8em;
+  border-radius: 4px 0 0 4px;
+}
+button{
+  background-color: black;
+  color: white;
+}
+input {
+  padding: .5rem;
+}
+.villanos {
+  margin: 0 0 2em 0;
+  list-style-type: none;
+  padding: 0;
+  width: 15em;
+}
+.villanos li {
+  cursor: pointer;
+  position: relative;
+  left: 0;
+  background-color: rgb(255, 255, 255);
+  margin: .5em;
+  padding: .3em 0;
+  height: 1.6em;
+  border-radius: 4px;
+}
+.villanos li:hover {
+  color: #050505;
+  background-color: rgb(197, 88, 88);
+  left: .1em;
+}
+.villanos li.selected {
+  background-color: rgb(197, 88, 88);
+  color: white;
+}
+.villanos li.selected:hover {
+  background-color: #a25bb8;
+  color: white;
+}
+.villanos li.selected:active {
+  background-color: rgb(104, 180, 190);
+  color: white;
+}
+.villanos .badge {
+  display: inline-block;
+  font: bold 90% monospace;
+  color: white;
+  padding: 0.8em 0.7em 0 0.7em;
+  background-color: #5dc2c5;
+  line-height: 1em;
+  position: relative;
+  left: -1px;
+  top: -4px;
+  height: 1.8em;
+  margin-right: .8em;
+  border-radius: 4px 0 0 4px;
+}
+button{
+  background-color: rgb(131, 108, 175);
+  color: rgb(5, 5, 5);
+}
+input {
+  padding: .5rem;
+}
+
+
+h1 {
+  display: block;
+  font-family: cursive;
+  font-weight: bold;
+
+}
+
